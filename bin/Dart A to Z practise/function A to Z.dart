@@ -38,7 +38,7 @@ double calculateArea(length,width){
 }
 
 // default value of function
- defaultValue({double length=12.4,double width=4.56}){
- double area =length*width;
- return area;
-}
+ defaultValue({double length=12.4,double width=4.56}) {
+  double area = length * width;
+  return area;
+ }
